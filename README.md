@@ -7,4 +7,4 @@
 ### Interact with me? 📧
 
 - [Twitter](https://twitter.com/rjmortera)
-- [Website](https://rjmortera)
+- [Email](mailto:info@rjmortera.com)
