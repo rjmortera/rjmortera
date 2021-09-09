@@ -1,4 +1,4 @@
-### RJ Mortera (Krev) :wave:
+### RJ Mortera (Krev) 👋🏼
 
 - ⛏ Full Stack Developer
 - 🗺️ CA (home/WFH) / NY (office)
