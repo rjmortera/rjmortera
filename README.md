@@ -1,7 +1,7 @@
 ### RJ Mortera (Krev) :wave:
 
 - ⛏ Full Stack Developer
-- 🗺️ CA (home/WFH =>) / NY (office)
+- 🗺️ CA (home/WFH) / NY (office)
 - 🏠 https://rjmortera / https://krev.dev
 
 ### Interact with me? 📧
