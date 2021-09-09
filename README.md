@@ -2,7 +2,7 @@
 
 - ⛏ Full Stack Developer
 - 🗺️ CA (home/WFH) / NY (office)
-- 🏠 https://rjmortera / https://krev.dev
+- 🏠 https://rjmortera.com / https://krev.dev
 
 ### Interact with me? 📧
 
