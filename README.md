@@ -1,8 +1,10 @@
 ### RJ Mortera 👋🏼
 
-- ⛏ Full Stack Developer
+backend engineer by day, tinkerer by night
+
+<!-- - ⛏ Full Stack Developer
 - 🗺️ CA (home/WFH) / NY (office)
-- 🏠 https://rjmortera.com / https://krev.dev
+- 🏠 https://rjmortera.com / https://krev.dev -->
 
 <!-- ![](https://github.com/rjmortera/gh-profile/blob/master/generated/overview.svg)   -->
 
